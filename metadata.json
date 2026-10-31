@@ -1,0 +1,6 @@
+{
+  "name": "CodeFix AI – Autonomous Test-Fixing Agent",
+  "description": "An autonomous self-improving AI test-fixing agent built on the TrueForge ecosystem with sandbox execution, subagents, MCP integration, and meta-learning skill rewrites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
